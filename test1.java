@@ -13,5 +13,9 @@ public class test1{
 		System.out.println(A1);
 		System.out.println(" ");
 		System.out.println(B1);
+		
+		int S1 = B1 + 64;
+		
+		System.out.println(S1);
 	}
 }
